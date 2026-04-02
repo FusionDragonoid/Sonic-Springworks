@@ -23,3 +23,8 @@ If you have any questions or run into issues when using Sonic Springworks, share
 
 # Setup
 Please follow [the Setup Guide](https://github.com/YakuzaBalooza/Sonic-Springworks/wiki/Setup-Guide) on the repository's wiki to download and setup what is necessary to use Sonic Springworks.
+
+
+# AI Clause
+Generative AI programs and chatbots, such as ChatGPT and Claude, harm creative expression, steal from others, and bring harm to the environment.
+Because of this, **you may not use generative AI programs to alter or change Sonic Springworks' code, assets, or anything else within the framework.**
