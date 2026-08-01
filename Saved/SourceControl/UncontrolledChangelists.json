@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jkrow/Documents/Unreal Projects/Sonic-Springworks/Content/SonicSpringworks/Levels/TestMap/AnotherTestMap.umap",
 				"C:/Users/papuc/Documents/GitHub/Sonic-Springworks/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/papuc/Documents/GitHub/Sonic-Springworks/Content/SonicSpringworks/Levels/TestMap/NewTestMap.umap",
 				"C:/Users/papuc/Documents/GitHub/Sonic-Springworks/Content/SonicSpringworks/System/SpringPawn.uasset",
@@ -120,7 +121,6 @@
 				"C:/Users/papuc/Documents/GitHub/Sonic-Springworks/Content/SonicSpringworks/Characters/Shadow/Mesh/shadow_PhysicsAsset.uasset",
 				"C:/Users/papuc/Documents/GitHub/Sonic-Springworks/Content/SonicSpringworks/Characters/Shadow/Mesh/chr_shadow_fix_model_PhysicsAsset.uasset",
 				"C:/Users/papuc/Documents/GitHub/Sonic-Springworks/Content/SonicSpringworks/Characters/Shadow/MatTex/chr_SuperShadow_HD_fur.uasset",
-				"C:/Users/papuc/Documents/GitHub/Sonic-Springworks/Content/SonicSpringworks/Characters/Shadow/Mesh/chr_shadow_fix_model_PhysicsAsset.uasset",
 				"C:/Users/papuc/Documents/GitHub/Sonic-Springworks/Content/SonicSpringworks/Characters/Shadow/Mesh/chr_shadow_model.uasset",
 				"C:/Users/papuc/Documents/GitHub/Sonic-Springworks/Content/SonicSpringworks/Characters/Shadow/Mesh/chr_shadow_model_PhysicsAsset.uasset",
 				"C:/Users/papuc/Documents/GitHub/Sonic-Springworks/Content/SonicSpringworks/Characters/Shadow/Mesh/chr_shadow_model_Skeleton.uasset",
